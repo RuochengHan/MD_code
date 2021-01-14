@@ -1,7 +1,7 @@
 # MD_code
 molecular dynamic code of atoms in a periodic boundary condition
 
-## md.cpp ##
+## MD.cpp ##
 MD code
 
 ## opt ###
